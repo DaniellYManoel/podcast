@@ -169,4 +169,7 @@ Este episódio de podcast foi criando por AI e revisado por uma pessoa humana. O
 - Gerando com o 'beta.elevanlabs.io', com o roteiro que foi gerado pelo ChatGpt
 - E a edição pelo CapCut
 
+## Rede
+Linkedin: @Danielly Cruz
+
  
