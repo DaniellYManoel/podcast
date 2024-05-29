@@ -4,7 +4,6 @@ O roteiro e audio gerado por AI e revisado e editador por pessoa humana.
 
 ## nome do Podcast 
 - Gerador pelo Chat Gpt
-- 
 Promp: 
 
 crie um nome de um PodCast de tecnologia. 
